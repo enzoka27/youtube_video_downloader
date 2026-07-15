@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Binaries auto-downloaded by the app at runtime
+ffmpeg.exe
+ffmpeg
+yt-dlp.exe
+yt-dlp
